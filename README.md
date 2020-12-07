@@ -33,3 +33,7 @@ Ná análise transiente, observar-se-á um ganho de 1dB, uma vez que esse ganho 
 
 Na análise em frequência, observar-se-á que o circuito possui uma frequência de corte próximo a 600 kHz.
 ![](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/Imagens/Imagens/analise_AC.png)
+
+# LAYOUT PCB
+
+![](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/Imagens/Imagens/PCB.png)
