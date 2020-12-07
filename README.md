@@ -19,5 +19,11 @@ Onde o fator de qualidade 'Q' determina o formato da resposta do filtro, e pode 
   Bessel: Q = 0,5;
   Butterworth: Q = 0,707
   Chebyshev: Q > 0,707
+  
+ # CONSTRUÇÃO DO CIRCUITO
+ Visando-se obter uma frequência de corte de 1 MHz, escolheu-se um valor de 1,74 kOhms para as resistências R1 e R2, de modo a determinar o valor das capacitâncias através da Eq. (3). Obteu-se, então, capacitâncias de 366 pF para realimentação negativa, e 100 pF.
+ Após isso, escolheu-se um amplificador operacional comercial que possuisse capacidade de suportar uma frequência de pelo menos 10 vezes a frequência de corte do projeto, visando evitar possiveis problemas referêntes ao efeito Miller e capacitâncias parasitas.
 
 ![](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/main/Circuito_1.png)
+
+Ná análise transiente, observar-se-á um ganho de 1dB, uma vez que esse ganho é determinado pelas resistências de realimentação negativa, que para este projeto, não foram utilizadas.
