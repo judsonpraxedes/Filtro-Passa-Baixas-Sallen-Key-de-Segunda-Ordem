@@ -19,3 +19,5 @@ Onde o fator de qualidade 'Q' determina o formato da resposta do filtro, e pode 
   Bessel: Q = 0,5;
   Butterworth: Q = 0,707
   Chebyshev: Q > 0,707
+
+[Circuito](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/main/Circuito_1.png)
