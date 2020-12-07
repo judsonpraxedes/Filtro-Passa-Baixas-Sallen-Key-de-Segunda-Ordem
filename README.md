@@ -26,4 +26,10 @@ Onde o fator de qualidade 'Q' determina o formato da resposta do filtro, e pode 
 
 ![](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/main/Circuito_1.png)
 
+# RESULTADOS
 Ná análise transiente, observar-se-á um ganho de 1dB, uma vez que esse ganho é determinado pelas resistências de realimentação negativa, que para este projeto, não foram utilizadas.
+
+![](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/Imagens/Imagens/transiente.png)
+
+Na análise em frequência, observar-se-á que o circuito possui uma frequência de corte próximo a 600 kHz.
+![](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/Imagens/Imagens/analise_AC.png)
