@@ -1,0 +1,47 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'New Project8.pdsprj'.
+CADCAM generated at 18:36:57 on segunda-feira, 7 de dezembro de 2020.
+
+File List
+---------
+Top Copper              : Gerber_file - CADCAM Top Copper.GBR
+Bottom Copper           : Gerber_file - CADCAM Bottom Copper.GBR
+Top Silk Screen         : Gerber_file - CADCAM Top Silk Screen.GBR
+Top Solder Resist       : Gerber_file - CADCAM Top Solder Resist.GBR
+Bottom Solder Resist    : Gerber_file - CADCAM Bottom Solder Resist.GBR
+Top SMT Paste           : Gerber_file - CADCAM Top SMT Paste.GBR
+Mechanical 1            : Gerber_file - CADCAM Mechanical 1.GBR
+Top Assembly            : Gerber_file - CADCAM Top Assembly.GBR
+Drill, Plated, 1-16     : Gerber_file - CADCAM Drill L1 L16 Plated.GBR
+Netlist                 : Gerber_file - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: X2, ASCII, 4.3, metric, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=0.254mm                                                         DRAW  Conductor
+D11	CIRCLE  D=1.778mm                                                         FLASH ComponentPad
+D12	RECT    W=0.4064mm            H=0.8382mm                                  FLASH SMDPad,CuDef
+D13	CIRCLE  D=0.2032mm                                                        DRAW  Profile
+D14	CIRCLE  D=0.2032mm                                                        DRAW  Material
+D15	CIRCLE  D=0.25mm                                                          DRAW  Material
+D16	CIRCLE  D=0.2mm                                                           DRAW  Material
+D17	CIRCLE  D=2.032mm                                                         FLASH Material
+D18	PPAD    W=0.4064mm            H=0.8382mm            I=0                   FLASH Material
+D19	RECT    W=0.4064mm            H=0.8382mm                                  FLASH Material
+D70	CIRCLE  D=0.16459mm                                                       DRAW  Profile
+D71	CIRCLE  D=0.16459mm                                                       DRAW  Material
+D20	CIRCLE  D=0.10668mm                                                       DRAW  Material
+D21	CIRCLE  D=0.05mm                                                          DRAW  Material
+D22	CIRCLE  D=0.11833mm                                                       DRAW  Material
+D23	CIRCLE  D=0.2032mm                                                        DRAW 
+D24	CIRCLE  D=0.16459mm                                                       DRAW 
+D25	CIRCLE  D=0.762mm                                                         FLASH ComponentDrill
+
+
+[END OF FILE]
