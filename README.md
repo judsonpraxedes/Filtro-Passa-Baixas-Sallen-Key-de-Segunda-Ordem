@@ -37,3 +37,8 @@ Na análise em frequência, observar-se-á que o circuito possui uma frequência
 # LAYOUT PCB
 
 ![](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/Imagens/Imagens/PCB.png)
+
+# BILL OF MATERIALS
+Em relação aos valores referentes aos dispositivos de resistência e capacitância comerciais, escolheu-se de modo a deixar o circuito o mais próximo possível dos valores simulados, de modo que:
+
+![](https://github.com/judsonpraxedes/Filtro-Passa-Baixas-Sallen-Key-de-Segunda-Ordem/blob/Imagens/Imagens/BOM.png)
